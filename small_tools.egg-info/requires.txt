@@ -1,0 +1,4 @@
+numpy
+requests
+pygenometracks
+mygene==3.2.2

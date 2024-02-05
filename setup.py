@@ -9,6 +9,8 @@ setup(
     packages=find_packages(),
     install_requires=['numpy',
                       'requests',
+                      'pygenometracks',
+                      'mygene==3.2.2'
                      ],
     classifiers=[
         'Programming Language :: Python :: 3',
