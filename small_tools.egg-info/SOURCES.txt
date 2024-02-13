@@ -1,5 +1,10 @@
 README.md
 setup.py
+data/__init__.py
+small_tools/__init__.py
+small_tools/barcodes.py
+small_tools/utils.py
+small_tools/visualization.py
 small_tools.egg-info/PKG-INFO
 small_tools.egg-info/SOURCES.txt
 small_tools.egg-info/dependency_links.txt
